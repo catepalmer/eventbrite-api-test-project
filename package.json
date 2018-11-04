@@ -2,7 +2,6 @@
   "name": "crae-simple",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": {},
   "license": "MIT",
   "engines": {
     "node": "11.4.0"
